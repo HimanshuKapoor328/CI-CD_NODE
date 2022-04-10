@@ -27,7 +27,7 @@ jobs:
     - run: npm i
     - run: npm run build
 
-    test:
+    tests:
 
     runs-on: ubuntu-latest
 
